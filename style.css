@@ -1,0 +1,35 @@
+.dody
+{
+    max-height:3000px;
+}
+.navbar1
+{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    height: 50px;
+    align-items: center;
+    margin-left: 60%;
+    height: 100px;
+}
+.eachnav
+{
+    padding-left:80px;
+    font-size: 20px;
+    color:black;
+    font-family: 'Lato', sans-serif;
+}
+.center
+{       
+        position: absolute;
+        top:50%;
+        left: 30%;   
+        color: white;     
+}
+.img
+{   background-position: 50px;
+    background-image: url('picture1.jpg');
+    width: 800px;
+    height: 600px;
+    background-repeat: no-repeat;
+}
